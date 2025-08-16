@@ -1,2 +1,2 @@
-# Gridpower2
+# gridpower2
 Asset Management Tool
