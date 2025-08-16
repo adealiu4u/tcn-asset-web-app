@@ -1,2 +1,2 @@
-# tcn-asset-web-app
+# Gridpower2
 Asset Management Tool
